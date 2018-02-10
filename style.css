@@ -1,0 +1,130 @@
+body{
+  background-color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    position: relative;
+    background-color: white;
+    padding: 0px 20px;
+    margin-top: 0px;
+}
+
+main{
+  width: 800px;
+  margin: 20px auto;
+}
+
+form{
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-family: 'Frijole', cursive;
+    font-size: 50px;
+    color: white;
+}
+
+h2{
+  height: 40px;
+  width: 780px;
+  background-color: white;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-top: 0px;
+}
+
+p#footer{
+  margin-top: 0;
+  background-color: rgb(83, 83, 83);
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+p{
+  padding-bottom: 0px;
+  margin-bottom: 0;
+}
+
+nav#nav {
+    background-color: rgb(182, 0, 0);
+    color: white;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.link:hover {
+    background-color: rgb(160, 0, 0);
+    padding: 10px;
+}
+
+#vraag0{
+  margin-left: 100px;
+}
+
+#vraag1{
+  margin-left: 152px;
+}
+
+#vraag2{
+  margin-left: 184px;
+}
+
+#vraag3{
+  margin-left: 282px;
+}
+
+#vraag4{
+  margin-left: 86px;
+}
+
+#vraag5{
+  margin-left: 219px;
+}
+
+#vraag6{
+  margin-left: 144px;
+}
+
+#vraag7{
+  margin-left: 267px;
+}
+
+#input{
+  margin-left: 538px;
+}
+
+#text0{
+  margin-left: 249px;
+}
+
+#text1{
+  margin-left: 147px;
+}
+
+#text2{
+  margin-left: 316px;
+}
+
+#text3{
+  margin-left: 133.5px;
+}
+
+#text4{
+  margin-left: 187px;
+}
+
+#text5{
+  margin-left: 146px;
+}
+
+#text6{
+  margin-left: 180.8px;
+}
