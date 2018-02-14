@@ -17,14 +17,13 @@
       </nav>
       <section>
         <h2>Onkunde</h2>
-        <p>Er zijn veel mensen die niet kunnen <?php echo $_post["v1"]?>.
-          Neem nou <?php echo $_post["v2"]?>. Zelfs met de hulp van een <?php echo $_post["v4"]?> of zelfs <?php echo $_post["v3"]?> kan <?php echo $_post["v2"]?> niet <?php echo $_post["v1"]?>
-          . Dat heeft niet te maken met een gebrek aan <?php echo $_post["v5"]?>, maar met een te veel aan <?php echo $_post["v6"]?>. Te veel <?php echo $_post["v6"]?>
-          leidt tot verveling<?php echo $_post["v7"]?>  en dat is niet goed als je wilt <?php echo $_post["v1"]?>. Helaas voor meneer Ronkes<?php echo $_post["v2"]?>.
+        <p>Er zijn veel mensen die niet kunnen <?php echo $_POST["v1"]?>.
+          Neem nou <?php echo $_POST["v2"]?>. Zelfs met de hulp van een <?php echo $_POST["v4"]?> of zelfs <?php echo $_POST["v3"]?> kan <?php echo $_POST["v2"]?> niet <?php echo $_POST["v1"]?>
+          . Dat heeft niet te maken met een gebrek aan <?php echo $_POST["v5"]?>, maar met een te veel aan <?php echo $_POST["v6"]?>. Te veel <?php echo $_POST["v6"]?>
+          leidt tot verveling <?php echo $_POST["v7"]?>  en dat is niet goed als je wilt <?php echo $_POST["v1"]?>. Helaas voor meneer/mevrouw <?php echo $_POST["v2"]?>.
         </p>
       </section>
-      <p id="footer"> Deze website is gemaakt door <?php echo $_post["v2"]?>.</p>
+      <p id="footer"> Deze website is gemaakt door Anoeska Clement.</p>
     </main>
-    <script src="script.js" type="text/javascript"></script>
   </body>
 </html>
